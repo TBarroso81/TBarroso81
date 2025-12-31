@@ -3,9 +3,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-oliveira-barroso-aa69391a1/)
 
-
-![Barroso GitHub stats](https://github-readme-stats.vercel.app/api?username=TBarroso81&theme=holi&show_icons=true)
-
 ## Tecnologias que eu uso
 
 ### Análise de Dados
